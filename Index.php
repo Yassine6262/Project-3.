@@ -9,21 +9,9 @@
     <title>CPC Kicks</title>
 </head>
 <body>
-      <div class="container">
-        <div class="navbar">
-            <img src="images/logo.png" class="logo">
-            <nav>
-                <ul>
-                    <li><a href="">Home</a></li>
-                    <li><a href="">Featured</a></li>
-                    <li><a href="">Product</a></li>
-                    <li><a href="">Explore</a></li>
-                    <li><a href="overons.html">Over Ons</a></li>
-                    <li><a href="account.html">Account</a></li>
-                </ul>
-            </nav>
-            <a href=""><i class="fa cart fa-cart-plus"></i></a>
-        </div>
+   <?php
+   include 'navbar.php'; ?>
+
         <div class="content">
             <h1>CPC <span class="style">Kicks</span></h1>
             <p> De beste schoenen vind je bij ons met de juiste maten <br>
@@ -48,10 +36,10 @@
 
 <div class="row">
 <ul>
-<li><a href="contact.html">Contact ons</a></li>
+<li><a href="contact.php">Contact ons</a></li>
 <li><a href="#">Onze Services</a></li>
 <li><a href="#">Privacy Policy</a></li>
-<li><a href="voorwaarden.html">Algemene Voorwaarden</a></li>
+<li><a href="voorwaarden.php">Algemene Voorwaarden</a></li>
 </ul>
 </div>
 

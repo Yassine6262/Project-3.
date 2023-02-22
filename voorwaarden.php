@@ -9,20 +9,10 @@
     <title>CPC Kicks</title>
 </head>
 <body>
-      <div class="container">
-        <div class="navbar">
-            <img src="images/logo.png" class="logo">
-            <nav>
-                <ul>
-                    <li><a href="Index.html">Home</a></li>
-                    <li><a href="">Featured</a></li>
-                    <li><a href="">Product</a></li>
-                    <li><a href="">Explore</a></li>
-                    <li><a href="">Over Ons</a></li>
-                </ul>
-            </nav>
-            
-        </div>
+
+<?php
+   include 'navbar.php'; ?>
+
 <p id="p1">Algemene Voorwaarden voor CPCstore</p>
     <br>
     <br>

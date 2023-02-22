@@ -10,18 +10,9 @@
 </head>
 <body>
       
-        <div class="navbar">
-            
-            <nav>
-                <ul>
-                    <li><a href="Index.html">Home</a></li>
-                    <li><a href="">Featured</a></li>
-                    <li><a href="">Product</a></li>
-                    <li><a href="">Explore</a></li>
-                    <li><a href="">Over Ons</a></li>
-                </ul>
-            </nav>
-        </div>
+<?php
+   include 'navbar.php'; ?>
+        
         <div class="container">
             <div class="row">
                     <h1>Contact Ons</h1>
