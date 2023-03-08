@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="dropdown.css">
     </head>
     <body>
 <div class="container">
@@ -11,7 +11,17 @@
                     <li><a href="index.php">Home</a></li>
                     <li><a href="">Featured</a></li>
                     <li><a href="">Product</a></li>
-                    <li><a href="">Explore</a></li>
+                    <div class="dropdown">
+    <button onclick="myFunction()" class="dropbtn">Categorieen</button>
+    <div id="myDropdown" class="dropdown-content">
+        <a href="#">Heren</a> <br>
+        <a href="#">Dames</a> <br>
+        <a href="#">Jongens</a> <br>
+        <a href="#">Dames</a> <br>
+        <a href="#">Baby's</a> <br>
+  </div>
+</div>
+      </li>
                     <li><a href="overons.php">Over Ons</a></li>
                     <li><a href="account.php">Account</a></li>
                 </ul>
