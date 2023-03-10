@@ -44,7 +44,7 @@
                     <div class="col-md-6 col-sm-12">
                         <div class="styled-input">
                             <input type="text" required />
-                            <label>Email</label> 
+                            <label>E-mail</label> 
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-12">
