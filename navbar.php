@@ -13,7 +13,7 @@
                     <li><a href="">categorieen</a></li>
         <div id="myDropdown" class="dropdown-content">
         
-            <a href="#">Heren</a> <br>
+            <a href="heren.php">Heren</a> <br>
             <a href="#">Dames</a> <br>
             <a href="#">Jongens</a> <br>
             <a href="#">Meisjes</a> <br>
