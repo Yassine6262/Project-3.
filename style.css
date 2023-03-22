@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 * {
-    display: flex;
+    margin: 0;
+    padding: 0;
     font-family: 'Poppins', sans-serif;
 }
 .container {
@@ -163,7 +164,6 @@ body{
     text-align:left;
     padding:5%;
     }
-    
     .footer .row ul li{
     display:block;
     margin:10px 0px;
@@ -179,6 +179,5 @@ body{
     }
 
    #prv{
-
+    margin-left: 600px; 
    }
-   

@@ -1,3 +1,4 @@
+
 <html>
     <head>
         <link rel="stylesheet" href="dropdown.css">
@@ -5,7 +6,7 @@
     <body>
 <div class="container">
         <div class="navbar">
-            <img src="images/logo.png" class="logo">
+            <img src="./images/Logo.png" class="logo">
             <nav>
                 <ul>
                     <li><a href="index.php">Home</a></li>
@@ -32,6 +33,3 @@
         </div>
 </body>
         </html>
-
-<?php
-?>
