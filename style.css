@@ -1,13 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 * {
-<<<<<<< HEAD
     margin: 0;
     padding: 0;
-=======
     margin: 0px;
     padding: 0px;
->>>>>>> 78a72ac97b12733ad771dd28fa2d9922a9dffff5
     font-family: 'Poppins', sans-serif;
 }
 .container {
