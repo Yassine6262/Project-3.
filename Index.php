@@ -37,8 +37,8 @@
 <div class="row">
 <ul>
 <li><a href="contact.php">Contact ons</a></li>
-<li><a href="services.php">Onze Services</a></li>
-<li><a href="#">Privacy Policy</a></li>
+<li><a href="#">Onze Services</a></li>
+<li><a href="">Privacy Policy</a></li>
 <li><a href="voorwaarden.php">Algemene Voorwaarden</a></li>
 </ul>
 </div>
