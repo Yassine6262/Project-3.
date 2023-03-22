@@ -14,7 +14,7 @@
    include 'navbar.php'; ?>
    <h2 id="prv">Privacy Policy</h2>
 <p id="p2"></p> 
-Privacyverklaring <br>
+Privacyverklaring d <br>
 <br>
 Wij respecteren uw privacy en hechten waarde aan de bescherming van uw persoonlijke gegevens. In deze privacyverklaring leggen we uit hoe wij uw persoonlijke gegevens verzamelen, gebruiken en beschermen. <br>
 <br>
