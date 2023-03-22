@@ -37,12 +37,19 @@
 <div class="row">
 <ul>
 <li><a href="contact.php">Contact ons</a></li>
+<<<<<<< HEAD
 
 <li><a href="#">Onze Services</a></li>
 <li><a href="privacy.php">Privacy Policy</a></li>
 
 <li><a href="services.php">Onze Services</a></li>
 
+=======
+<li><a href="#">Onze Services</a></li>
+<li><a href="privacy.php">Privacy Policy</a></li>
+<li><a href="services.php">Onze Services</a></li>
+<li><a href="#">Privacy Policy</a></li>
+>>>>>>> 78a72ac97b12733ad771dd28fa2d9922a9dffff5
 <li><a href="voorwaarden.php">Algemene Voorwaarden</a></li>
 </ul>
 </div>
