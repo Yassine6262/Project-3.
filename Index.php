@@ -44,7 +44,7 @@
 </div>
 
 <div class="row">
- © 2023 CPC Kicks - || Ontwerpers: Yassine Azdad, Dzemal, Ouail, Ayoub, Jose
+ © 2023 CPC Kicks - || Ontwerpers: Yassine Azdad, xOuail, Ayoub, Jose
 </div>
 </div>
 </footer>
