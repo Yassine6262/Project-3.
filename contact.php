@@ -9,8 +9,29 @@
     <title>CPC Kicks</title>
 </head>
 <body>
-<?php
-   include 'navbar.php'; ?>
+
+<html>
+    
+    <body>
+<div class="container">
+        <div class="navbar">
+            
+            <nav>
+                <ul>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="">Featured</a></li>
+                    <li><a href="product.php">collection</a></li>
+                    <li><a href="">Explore</a></li>
+                    <li><a href="overons.php">Over Ons</a></li>
+                    <li><a href="account.php">Account</a></li>
+                    <li><a href="help.php">Help</a></li>
+                </ul>
+            </nav>
+            
+        </div>
+</body>
+        </html>
+
 
 
         

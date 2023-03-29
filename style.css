@@ -31,7 +31,7 @@
 }
 nav {
     flex: 1;
-    padding-left: 420px;
+    padding-left: 400px;
 }
 nav ul li {
     display: inline-block;
@@ -45,6 +45,10 @@ nav ul li a {
     font-size: 16px;
     font-weight: 600;
 }
+.fas .fa-user-alt {
+color: #000;
+}
+
 a .cart {
     font-size: 60px;
     color: #1b1b1b;
