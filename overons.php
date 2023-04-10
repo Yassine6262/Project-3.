@@ -1,3 +1,6 @@
+<?php
+include 'navbar.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,24 +17,7 @@
     <head>
         <link rel="stylesheet" href="style.css">
     </head>
-    <body>
-
-        <div class="navbar">
-            
-            <nav>
-                <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="">Featured</a></li>
-                    <li><a href="product.php">collection</a></li>
-                    <li><a href="">Explore</a></li>
-                    <li><a href="overons.php">Over Ons</a></li>
-                    <li><a href="account.php">Account</a></li>
-                    <li><a href="help.php">Help</a></li>
-                </ul>
-            </nav>
-           
-        </div>
-</body>
+    
         </html>
 
 
