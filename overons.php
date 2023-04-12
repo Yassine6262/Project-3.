@@ -1,3 +1,6 @@
+<?php
+include 'navbar.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,8 +13,13 @@
 </head>
 <body>
      
-<?php
-   include 'navbar.php'; ?>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    
+        </html>
+
 
         <p id="p1">Geschiedenis van het bedrijf:</p>
 

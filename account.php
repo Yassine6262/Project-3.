@@ -1,45 +1,57 @@
 <!DOCTYPE html>
+
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="account.css">
-    <title>CPC Kicks</title>
-</head>
-<body>
-<div class="d-flex justify-content-center align-items-center mt-5">
-<div class="container">
-    <div class="row">
-      <div class="col-md-6 offset-md-3">
-        <h2 class="text-center text-dark mt-5">Login Form</h2>
-        <div class="text-center mb-5 text-dark">Made with bootstrap</div>
-        <div class="card my-5">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <link rel="stylesheet" href="account.css" />
+  </head>
+  <body>
 
-          <form class="card-body cardbody-color p-lg-5">
-
-            <div class="text-center">
-              <img src="https://cdn.pixabay.com/photo/2016/03/31/19/56/avatar-1295397__340.png" class="img-fluid profile-image-pic img-thumbnail rounded-circle my-3"
-                width="200px" alt="profile">
-            </div>
-
-            <div class="mb-3">
-              <input type="text" class="form-control" id="Username" aria-describedby="emailHelp"
-                placeholder="User Name">
-            </div>
-            <div class="mb-3">
-              <input type="password" class="form-control" id="password" placeholder="password">
-            </div>
-            <div class="text-center"><button type="submit" class="btn btn-color px-5 mb-5 w-100">Login</button></div>
-            <div id="emailHelp" class="form-text text-center mb-5 text-dark">Not
-              Registered? <a href="#" class="text-dark fw-bold"> Create an
-                Account</a>
-            </div>
-          </form>
-        </div>
-
+ <?php
+ include 'navbar.php';
+ ?>
+  
+    <section class="wrapper">
+      <div class="form signup">
+        <header>Signup</header>
+        <form action="#">
+          <input type="text" placeholder="Full name" required />
+          <input type="text" placeholder="Email address" required />
+          <input type="password" placeholder="Password" required />
+          <div class="checkbox">
+            <input type="checkbox" id="signupCheck" />
+            <label for="signupCheck">I accept all terms & conditions</label>
+          </div>
+          <input type="submit" value="Signup" />
+        </form>
       </div>
-    </div>
-  </div>
-</body>
+
+      <div class="form login">
+        <header>Login</header>
+        <form action="#">
+          <input type="text" placeholder="Email address" required />
+          <input type="password" placeholder="Password" required />
+          <a href="#">Forgot password?</a>
+          <input type="submit" value="Login" />
+        </form>
+      </div>
+
+      <script>
+        const wrapper = document.querySelector(".wrapper"),
+          signupHeader = document.querySelector(".signup header"),
+          loginHeader = document.querySelector(".login header");
+
+        loginHeader.addEventListener("click", () => {
+          wrapper.classList.add("active");
+        });
+        signupHeader.addEventListener("click", () => {
+          wrapper.classList.remove("active");
+        });
+      </script>
+    </section>
+  </body>
+</html>
+
