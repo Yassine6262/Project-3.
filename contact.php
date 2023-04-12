@@ -34,8 +34,8 @@
 
 
 
-        
-        <div class="container">
+        <form action="popup.php">
+             <div class="container">
             <div class="row">
                     <h1>Contact Ons</h1>
             </div>
@@ -68,11 +68,13 @@
                         </div>
                     </div>
                     <div class="col-xs-12">
-                        <div class="btn-lrg submit-btn">Versturen</div>
+                       <div class="btn-lrg submit-btn"> <button type="submit" id="button" onclick="alert('U klacht is verzonden!')">Verstuur</button> </div>
+                    
                     </div>
                     <div class="col-xs-12">
-                        <div class="btn-lrg submit-btn">
                     
-            </div>
+
         </div>
+        </form>
+       
         
