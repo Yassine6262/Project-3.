@@ -40,7 +40,7 @@
     <li><a href="retour.php">Retour</a></li>
 <li><a href="contact.php">Contact ons</a></li>
 <li><a href="privacy.php">Privacy Policy</a></li>
-<li><a href="help.php">Onze Services</a></li>
+<li><a href="services.php">Onze Services</a></li>
 <li><a href="voorwaarden.php">Algemene Voorwaarden</a></li>
 </ul>
 </div>
