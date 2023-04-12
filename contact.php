@@ -70,6 +70,9 @@
                     <div class="col-xs-12">
                         <div class="btn-lrg submit-btn">Versturen</div>
                     </div>
+                    <div class="col-xs-12">
+                        <div class="btn-lrg submit-btn">
+                    
             </div>
         </div>
         
