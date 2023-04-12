@@ -39,7 +39,6 @@
     <li><a href="milieu.php">Milieu</a></li>
     <li><a href="retour.php">Retour</a></li>
 <li><a href="contact.php">Contact ons</a></li>
-<li><a href="#">Onze Services</a></li>
 <li><a href="privacy.php">Privacy Policy</a></li>
 <li><a href="services.php">Onze Services</a></li>
 <li><a href="#">Privacy Policy</a></li>
@@ -48,7 +47,7 @@
 </div>
 
 <div class="row">
- © 2023 CPC Kicks - || Ontwerpers: Yassine Azdad, xOuail, Ayoub, Jose
+ © 2023 CPC Kicks - || Ontwerpers: Yassine Azdad, Ouail, Ayoub, Jose
 </div>
 </div>
 </footer>

@@ -10,9 +10,7 @@
             <nav>
                 <ul>
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="">Featured</a></li>
                     <li><a href="product.php">collection</a></li>
-                    <li><a href="">Explore</a></li>
                     <li><a href="overons.php">Over Ons</a></li>
                     <li><a href="help.php">Help</a></li>
                     <a href="account.php"><i class='fas fa-user-alt' style='font-size:48px;color:black'></i></a>
