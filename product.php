@@ -115,8 +115,8 @@ include 'navbar.php';
 <div class="row">
 <ul>
 <li><a href="contact.php">Contact ons</a></li>
-<li><a href="#">Onze Services</a></li>
-<li><a href="">Privacy Policy</a></li>
+<li><a href="help.php">Onze Services</a></li>
+<li><a href="overons.php">Privacy Policy</a></li>
 <li><a href="voorwaarden.php">Algemene Voorwaarden</a></li>
 </ul>
 </div>
