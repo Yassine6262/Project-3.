@@ -11,11 +11,10 @@
                 <ul >
                     <li><a href="index.php">Home</a></li>
                     <li><a href="product.php">collection</a></li>
-                    <li><a href="">Featured</a></li>
-                    <li><a href="">Explore</a></li>
                     <li><a href="overons.php">Over Ons</a></li>
-                    <li><a href="account.php">Account</a></li>
                     <li><a href="help.php">Help</a></li>
+                    <li><a href="account.php">Account</a> <i class='fas fa-user-circle' style='font-size:36px'></i></li>
+                    
                 </ul>
             </nav>
             <a href=""><i class="fa cart fa-cart-plus"></i></a>
