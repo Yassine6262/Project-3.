@@ -28,10 +28,10 @@
 <footer>
 <div class="footer">
 <div class="row">
-<a href="#"><i class="fa fa-facebook"></i></a>
-<a href="#"><i class="fa fa-instagram"></i></a>
-<a href="#"><i class="fa fa-youtube"></i></a>
-<a href="#"><i class="fa fa-twitter"></i></a>
+<a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+<a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+<a href="https://www.youtube.com/"><i class="fa fa-youtube"></i></a>
+<a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
 </div>
 
 <div class="row">
@@ -44,7 +44,7 @@
 </div>
 
 <div class="row">
- © 2023 CPC Kicks - || Ontwerpers: Yassine Azdad, xOuail, Ayoub, Jose
+ © 2023 CPC Kicks - || Ontwerpers: Yassine Azdad, Ouail, Ayoub, Jose
 </div>
 </div>
 </footer>
